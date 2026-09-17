@@ -5,7 +5,7 @@
 }
 .navbar{
     height: 60px;
-    background-color: #0f1111;
+    background-color: blue
     color: white;
     display: flex;
     justify-content: space-evenly;
